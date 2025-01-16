@@ -1,4 +1,4 @@
-# Web Scrapping Tool
+# Web Scraping Tool
 ## A comprehensive Python library for RPA (Robotic Process Automation) development on the web, designed to simplify web scraping, automate data collection, process downloads, and handle manual tasks efficiently and reliably.
 
 ### Author
