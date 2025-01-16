@@ -10,13 +10,13 @@ Name: Richard Raphael Banak
 To install, run the command:
 
 ```python
-pip install git+https://github.com/Richardbnk/SAP_RPA
+pip install git+https://github.com/Richardbnk/Web_Scraping_Tool
 ```
 
 To update your packge use the command:
 
 ```python
-pip install --upgrade git+https://github.com/Richardbnk/SAP_RPA
+pip install --upgrade git+https://github.com/Richardbnk/Web_Scraping_Tool
 ```
 
 ### Requirements
